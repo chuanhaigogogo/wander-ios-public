@@ -20,7 +20,7 @@ For support, contact:
 
 ### Why does Wander only give 10 suggestions per day?
 
-Wander is intentionally limited. The daily limit prevents the app from becoming an endless feed and supports the product’s anti-algorithm design.
+Wander is intentionally limited. The daily limit prevents the app from becoming an endless feed and supports the product’s design.
 
 ### Why does Clear My Data not reset the daily limit?
 

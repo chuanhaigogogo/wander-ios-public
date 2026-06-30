@@ -15,7 +15,7 @@ permalink: /privacy-policy/
 
 This Privacy Policy explains how Wander handles data. Wander is a no-login, no-account iOS content discovery app. It helps you choose one small thing to read, watch, listen to, notice, or do when you do not know what to do next.
 
-Wander does **not** collect your real identity information. Wander does process limited anonymous functional data so the app can work: daily suggestion limits, favorites, completed items, duplicate prevention, retry safety, and anti-algorithm content diversity.
+Wander does **not** collect your real identity information. Wander does process limited anonymous functional data so the app can work: daily suggestion limits, favorites, completed items, duplicate prevention, retry safety, and content diversity.
 
 ## 1. What Wander does not collect
 
@@ -82,7 +82,7 @@ Wander uses anonymous functional data to:
 
 Wander may store embeddings generated from Wander’s own suggestion content. These embeddings help filter similar suggestions and support content diversity.
 
-- Embeddings are used for similarity filtering and anti-algorithm diversity.
+- Embeddings are used for similarity filtering and diversity.
 - Embeddings are not returned to the app client.
 - Embeddings are not used for advertising tracking.
 - Favorites, completed items, and seen items are used only for app functionality and recommendation behavior, not for ads.
